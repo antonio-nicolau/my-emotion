@@ -1,6 +1,6 @@
 # My Emotion
 
-A flutter app face detection face and emotion, can detect if you're smiling, big smiley, sad or if there is not face on the screen.
+A flutter app face detection and emotion, can detect if you're smiling, big smiley, sad or if there is not face on the screen.
 News feactures will be add as soon as possible
 
 Here is a demo video
